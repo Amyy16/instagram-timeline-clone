@@ -1,1 +1,3 @@
-"# instagram-timeline-clone" 
+# instagram-timeline-clone
+
+A clone of instagram timeline
